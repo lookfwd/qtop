@@ -1,4 +1,4 @@
-# qtop.py [![Build Status](https://travis-ci.org/qtop/qtop.svg)](https://travis-ci.org/qtop/qtop)
+# qtop.py [![Build Status](https://travis-ci.org/qtop/qtop.svg)](https://travis-ci.org/qtop/qtop) [![Coverage Status](https://coveralls.io/repos/github/lookfwd/qtop/badge.svg?branch=master)](https://coveralls.io/github/lookfwd/qtop?branch=master)
 
 Ported in Python by Sotiris Fragkiskos / Original bash version by Fotis Georgatos
 
